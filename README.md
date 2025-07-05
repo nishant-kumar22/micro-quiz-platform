@@ -39,8 +39,8 @@ A modern, responsive quiz application built with Next.js 14, featuring dynamic r
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd micro-quiz
+   git clone https://github.com/nishant-kumar22/micro-quiz-platform.git
+   cd micro-quiz-platform
    ```
 
 2. **Install dependencies**
