@@ -11,6 +11,15 @@ A modern, responsive quiz application built with Next.js 14, featuring dynamic r
 - 📊 **Progress Tracking** - Visual progress bars and completion statistics
 - 🏆 **Score System** - Detailed scoring with percentage and feedback messages
 
+### 🎥 Live Application
+![App Demo](./screenshots/homepage.png)
+
+### 📱 Key Features
+| Quizzes | Quiz Interface | Results |
+|----------|----------------|---------|
+| ![Quizzes](./screenshots/quizzes.png) | ![Question](./screenshots/question.png) | ![Results](./screenshots/results.png) |
+
+
 ## Tech Stack
 
 - **Framework**: Next.js 14 with App Router
